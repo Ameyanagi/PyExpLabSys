@@ -1,6 +1,5 @@
 six
 numpy
-smbus
 pyyaml
 pymysql
 pyserial
