@@ -1,3 +1,5 @@
+Deleted smbus from the requirements.txt to be installed in MacOSX
+
 ::
 
      _____       ______            _           _     _____
